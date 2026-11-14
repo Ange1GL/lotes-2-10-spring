@@ -1,0 +1,59 @@
+{
+  "files": [
+    {
+      "name": "redhat.java-1.58.0-win32-x64.vsix",
+      "size": 134602310,
+      "sha256": "e23746b65468243ea54a7c7ad0a41ff4202196cf642cd9e6fa275234c33cdacd"
+    },
+    {
+      "name": "vmware.vscode-spring-boot-2.4.1.vsix",
+      "size": 83290020,
+      "sha256": "6971f2bbc513a944e7f907e48ec68f64848d689630d5616bf54ef0803349f6ed"
+    },
+    {
+      "name": "vscjava.vscode-gradle-3.19.0.vsix",
+      "size": 33688709,
+      "sha256": "0389b42fbbd705fec97bbda7becdadad099f56af5da1573079ac686472e7387f"
+    },
+    {
+      "name": "vscjava.vscode-maven-0.46.0.vsix",
+      "size": 11008148,
+      "sha256": "ba2b5273bf0e8ea936b54fdf28a73a31da0718467b7194374da78213b23f66f0"
+    },
+    {
+      "name": "vscjava.vscode-java-test-0.47.0.vsix",
+      "size": 4957409,
+      "sha256": "50bf6c08fb2d77ce7bc6cf0a4dc92990b3d1f94900d46be322113d1c5b40274b"
+    },
+    {
+      "name": "vscjava.vscode-java-debug-0.60.0.vsix",
+      "size": 3510771,
+      "sha256": "cc567d5ee8992ac34c2514c93c26bf009b72fb8fa65dbc00e42a4fe876c54b01"
+    },
+    {
+      "name": "vscjava.vscode-java-pack-0.31.2.vsix",
+      "size": 2086265,
+      "sha256": "08dabc8e185581cddda093511a4be08300e07404d4cd9b12d3c4807e4eeaceda"
+    },
+    {
+      "name": "vscjava.vscode-spring-boot-dashboard-0.15.0.vsix",
+      "size": 609072,
+      "sha256": "8a4e894dfb3fcd6c4d1a96e0a1448b6b7824cd03a59c8127253e12b4d11b8e59"
+    },
+    {
+      "name": "vscjava.vscode-java-dependency-0.27.7.vsix",
+      "size": 362764,
+      "sha256": "645c6e35a7be4702b750e7e6edfc4bc5e20e82ac9e91c7f06fd509e664492617"
+    },
+    {
+      "name": "vmware.vscode-boot-dev-pack-0.2.2.vsix",
+      "size": 263680,
+      "sha256": "e1287fe3318f04653c5f09cb12df257fda3d8b71a08f3f71b172c7707e0b284c"
+    },
+    {
+      "name": "vscjava.vscode-spring-initializr-0.12.1.vsix",
+      "size": 214176,
+      "sha256": "5784ac06cae1a2b44a4326c5ebb8d2b7f13006f5e244b991382b95458c8c9958"
+    }
+  ]
+}
